@@ -1,5 +1,5 @@
 # Game-of-Battleship-(Java)
-Implementing a 2-player board game of Battleship using Java
+Implementing a 2-player board game of Battleship using Java.
 
 Game1.java has the code for the classical Battleship game. 
 
